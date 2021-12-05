@@ -1,4 +1,4 @@
-# Transmit numbers into a string in words (russian only)
+# Transmit numbers (positive only) into a string in words (russian only)
 
 _I finished my homework :)_
 
